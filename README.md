@@ -10,6 +10,7 @@
 ### ✨ Research interests ✨
 - Manipulation
 - Imitation Learning
+- Reinforcement Learning
 - Preference-based Learning
 
 
