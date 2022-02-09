@@ -1,6 +1,7 @@
 ###           Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Joonhyeok%20Github&fontSize=40&animation=fadeIn)
+
 <img src="https://img.shields.io/badge/ljh124578@Gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ### 💪 Tech 💪
