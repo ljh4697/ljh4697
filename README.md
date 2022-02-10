@@ -13,16 +13,16 @@
   [<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>](https://www.tensorflow.org/?hl=ko "Tensorflow link")
   [<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>](https://pytorch.org/ "PyTorch link")
   [<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>](https://code.visualstudio.com/ "Visual Studio Code link")
-
-
-  ### ✨ Research interests ✨
-  - Manipulation
-  - Imitation Learning
-  - Reinforcement Learning
-  - Preference-based Learning
-
-
 </div>
+
+
+### ✨ Research interests ✨
+- Manipulation
+- Imitation Learning
+- Reinforcement Learning
+- Preference-based Learning
+
+
 
 <!--
 **ljh4697/ljh4697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
