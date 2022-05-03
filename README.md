@@ -16,7 +16,7 @@
   [<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>](https://code.visualstudio.com/ "Visual Studio Code link")
   
   [<img src="https://img.shields.io/badge/OpenAI Gym-0081A5?style=flat-square&logo=OpenAI Gym&logoColor=white"/>](https://gym.openai.com/ "OpenAI Gym link")
-  [<img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat-square&logo=OpenCv&logoColor=white"/>](https://opencv.org/ "Opencv link")
+  [<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCv&logoColor=white"/>](https://opencv.org/ "Opencv link")
   
 </div>
 
